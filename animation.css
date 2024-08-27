@@ -10,27 +10,27 @@
   animation: stroke 6s infinite linear;
 }
 .text:nth-child(5n+1) {
-  stroke: #F2385A;
+  stroke: #f2385a;
   -webkit-animation-delay: -1.2s;
   animation-delay: -1.2s;
 }
 .text:nth-child(5n+2) {
-  stroke: #F5A503;
+  stroke: #f5a503;
   -webkit-animation-delay: -2.4s;
   animation-delay: -2.4s;
 }
 .text:nth-child(5n+3) {
-  stroke: #E9F1DF;
+  stroke: #e9f1df;
   -webkit-animation-delay: -3.6s;
   animation-delay: -3.6s;
 }
 .text:nth-child(5n+4) {
-  stroke: #56D9CD;
+  stroke: #56d9cd;
   -webkit-animation-delay: -4.8s;
   animation-delay: -4.8s;
 }
 .text:nth-child(5n+5) {
-  stroke: #3AA1BF;
+  stroke: #3aa1bf;
   -webkit-animation-delay: -6s;
   animation-delay: -6s;
 }
@@ -46,7 +46,8 @@
   }
 }
 /* Other styles */
-html, body {
+html,
+body {
   height: 100%;
 }
 
